@@ -1,0 +1,16 @@
+{
+  "name": "jest-react",
+  "version": "1.0.0",
+  "description": "Curso de Jest para react",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage"
+  },
+  "author": "Dorian Morones",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
